@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <kenzo>
+            <Filename>Atomic-OS-v1.0-kenzo-20170530-1124-SUPPORTED.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=123</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit AOS RedmiNote3 XDA thread">google.com</XDAUrl>
+       </kenzo>
+    </Stable>
+</SlimOTA>
