@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Atomic-OS-v1.0-kenzo-20170530-1124-SUPPORTED.zip</Filename>
+            <Filename>Atomic-OS-v2.0-kenzo-20170715-1555-SUPPORTED.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">https://www.androidfilehost.com/?fid=123</RomUrl>
+                description="Download DND build">https://www.androidfilehost.com/?fid=456</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
