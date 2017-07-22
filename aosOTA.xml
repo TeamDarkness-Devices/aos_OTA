@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>Atomic-OS-v2.0-kenzo-20170715-1555-SUPPORTED.zip</Filename>
+            <Filename>Atomic-OS-v1.0-kenzo-20170721-0903-atomicity.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">https://www.androidfilehost.com/?fid=456</RomUrl>
+                description="Download AOS build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/kenzo/Atomic-OS-v1.0-kenzo-20170721-0903-atomicity.zip/download</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -14,7 +14,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit AOS RedmiNote3 XDA thread">google.com</XDAUrl>
+                description="Visit AOS RedmiNote3 XDA thread">https://forum.xda-developers.com/redmi-note-3/development/rom-atomic-os-t3640184</XDAUrl>
        </kenzo>
         <mido>
             <Filename>Atomic-OS-v1.0-mido-20170721-0911-atomicity.zip</Filename>
