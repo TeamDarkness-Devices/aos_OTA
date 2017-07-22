@@ -21,7 +21,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/mido/Atomic-OS-v1.0-mido-20170721-0911-atomicity.zip/download</Url>
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/mido/Atomic-OS-v1.0-mido-20170721-0911-atomicity.zip/download</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
