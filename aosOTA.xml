@@ -31,5 +31,20 @@
                 title="XDA"
                 description="Visit AOS Redmi Note 4 XDA thread">https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-atomic-os-t3640177</XDAUrl>
        </mido>
+       <aio_otfp>
+            <Filename>Atomic-OS-v1.0-aio_otfp-20170721-1826-atomicity.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/aio_otfp/Atomic-OS-v1.0-aio_otfp-20170721-1826-atomicity.zip/download</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit AOS K3 Note XDA thread">https://forum.xda-developers.com/k3-note/orig-development/rom-atomic-os-t3640412</XDAUrl>
+       </aio_otfp> 
     </Stable>
 </SlimOTA>
