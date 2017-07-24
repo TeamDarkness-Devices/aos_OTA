@@ -62,11 +62,11 @@
                 description="Visit AOS Moto G5 Plus XDA thread">https://forum.xda-developers.com/g5-plus/development/rom-atomic-os-t3640530</XDAUrl>
        </potter> 
        <z010d>
-            <Filename>Atomic-OS-1.0-Z010D-20170724-1632-atomicity</Filename>
+            <Filename>Atomic-OS-1.0-Z010D-20170724-1729-atomicity</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z010d/Atomic-OS-1.0-Z010D-20170724-1632-atomicity.zip/download</RomUrl>
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z010d/Atomic-OS-1.0-Z010D-20170724-1729-atomicity.zip/download</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
