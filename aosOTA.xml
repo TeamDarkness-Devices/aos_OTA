@@ -60,7 +60,22 @@
                 id="xda"
                 title="XDA"
                 description="Visit AOS Moto G5 Plus XDA thread">https://forum.xda-developers.com/g5-plus/development/rom-atomic-os-t3640530</XDAUrl>
-       </potter> 
+       </potter>
+       <karate>
+            <Filename>Atomic-OS-v1.0-karate-20170726-0827-atomicity.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/karate/</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit AOS Moto G5 Plus XDA thread">https://forum.xda-developers.com/android/development/rom-atomic-os-v1-0-lenovo-k6-t3641937</XDAUrl>
+       </karate> 
        <z010d>
             <Filename>Atomic-OS-1.0-Z010D-20170724-1729-atomicity</Filename>
             <RomUrl
