@@ -106,5 +106,20 @@
                 title="XDA"
                 description="Visit AOS Redmi 2 XDA thread">https://forum.xda-developers.com/redmi-2/development/rom-atomic-os-t3640983</XDAUrl>
       </wt88047>
+      <cedric>
+            <Filename>Atomic-OS-1.0-cedric-20170731-0316-atomicity.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/cedric/Atomic-OS-1.0-cedric-20170731-0316-atomicity.zip/download</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit AOS Moto G5 XDA thread">https://forum.xda-developers.com/g5/development/rom-unofficial-07-27-17-atomicos-oms7-t3648267</XDAUrl>
+      </cedric>
    </Stable>
 </SlimOTA>
