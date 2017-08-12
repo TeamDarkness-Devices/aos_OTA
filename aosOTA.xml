@@ -66,7 +66,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/karate/</RomUrl>
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/karate/Atomic-OS-1.5-karate-20170811-0515-alchemy.zip/download</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -74,7 +74,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit AOS Moto G5 Plus XDA thread">https://forum.xda-developers.com/android/development/rom-atomic-os-v1-0-lenovo-k6-t3641937</XDAUrl>
+                description="Visit AOS Lenovo k6 Power XDA thread">https://forum.xda-developers.com/android/development/rom-atomic-os-v1-0-lenovo-k6-t3641937</XDAUrl>
        </karate> 
        <z010d>
             <Filename>Atomic-OS-1.0-Z010D-20170724-1729-atomicity</Filename>
