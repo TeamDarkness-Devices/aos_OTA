@@ -121,5 +121,20 @@
                 title="XDA"
                 description="Visit AOS Moto G5 XDA thread">https://forum.xda-developers.com/g5/development/rom-unofficial-07-27-17-atomicos-oms7-t3648267</XDAUrl>
       </cedric>
+         <oneplus3>
+            <Filename>Atomic-OS-1.5-oneplus3-20170902-0532-alchemy.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download build">https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/oneplus3/Atomic-OS-1.5-oneplus3-20170902-0532-alchemy.zip/download</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit AOS One Plus 3/3T XDA thread">https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-atomic-os-t3666619</XDAUrl>
+      </oneplus3>
    </Stable>
 </SlimOTA>
